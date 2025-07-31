@@ -34,13 +34,13 @@ Using a **teacher–student model** design:
   - Forecast ensemble features  
   - Observed-derived rainfall features (e.g., smoothed IMD rainfall)  
 - **Target**: Residuals = (Ensemble Mean − Observed Rainfall)
-- **Prediction**:  
+- **Prediction**  
 
 
 ### 🔶 2. Student Model (XGBoost)
 - **Inputs**: Forecast-only features  
 - **Target**: Teacher-predicted residuals  
-- **Prediction (real-time)**:  
+- **Prediction (real-time)** 
 
 ---
 
@@ -48,7 +48,7 @@ Using a **teacher–student model** design:
 
 For any queries, feedback, or collaboration ideas, feel free to reach out:
 
-- 📧 Email: [shivanshshukla4279@gmail.com](mailto:shivanshs1707@gmail.com)
+- 📧 Email: [shivanshshukla@gmail.com](mailto:shivanshs1707@gmail.com)
 - 👤 Author: Shivansh Shukla  
   SRIP Intern, IIT Gandhinagar
 
